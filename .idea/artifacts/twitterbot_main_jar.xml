@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="twitterbot.main:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/twitterbot_main_jar</output-path>
+    <root id="archive" name="twitterbot.main.jar">
+      <element id="module-output" name="twitterbot.main" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.twitter4j/twitter4j-stream/4.0.7/40c335890d36e58d0bb9e634528e924db1f24dc8/twitter4j-stream-4.0.7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.5/f645ed69d595b24d4cf8b3fbb64cc505bede8829/gson-2.8.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.twitter4j/twitter4j-core/4.0.7/5fdb375ccfb3eda7354efb262cbe9b53abccff2/twitter4j-core-4.0.7.jar" path-in-jar="/" />
+      <element id="directory" name="data">
+        <element id="dir-copy" path="$PROJECT_DIR$/data" />
+      </element>
+    </root>
+  </artifact>
+</component>

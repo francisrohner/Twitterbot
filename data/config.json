@@ -1,0 +1,18 @@
+{
+  "lastStatusReplied": -1,
+  "logPath": "log.txt",
+  "twitterAuth": {
+    "consumerKey": "--fill--",
+    "consumerSecret": "--fill--",
+    "accessToken": "--fill--",
+    "accessTokenSecret": "--fill--"
+  },
+  "followReplies": [
+    {
+      "account": "GuyFieri",
+      "hashtags": [
+        "#flavortown", "#noodles", "#pizza", "#burgers", "#dankmemes", "#sphaghetti", "#bbq", "#sushi"
+      ]
+    }
+  ]
+}
